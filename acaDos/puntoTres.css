@@ -1,0 +1,33 @@
+.estilazo {
+  color: white;
+  background-color: blue;
+  margin: 20px;
+  padding: 20px;
+  width: 300px;
+  border: 10px solid black;
+}
+
+.contenedorUno {
+  display: flex;
+  justify-content: center;
+}
+
+
+.contenedorDos {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  
+.contenedorTres {
+    display: flex;
+    justify-content: center;
+  }
+
+  
+  
+.contenedorCuatro {
+    display: flex;
+    justify-content: flex-start;
+  }
+  
